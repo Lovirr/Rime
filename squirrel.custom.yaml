@@ -1,0 +1,13 @@
+patch:
+  style/horizontal: true # 候选词菜单横向排列
+  style/color_scheme: google # 配色方案（蓝色）
+
+  app_options:    # App关闭中文输入
+
+    # 终端
+    # com.apple.Terminal:
+    #     ascii_mode: true
+
+    # com.runningwithcrayons.Alfred:
+    #     ascii_mode: true
+        
